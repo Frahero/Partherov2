@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0xAf7BD06E6Ae8dC0EB89CFf28b1a34f2DDE79AbA7",
+  "SCAN_LINK": "https://polygonscan.com/token/0xaf7bd06e6ae8dc0eb89cff28b1a34f2dde79aba7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Fa*tMan-Superhero",
+  "SYMBOL": "Fa*tMan",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fartmansuperhero",
+  "Discord": "Discord",
+  "Dicord_LINK": "https://discord.com/invite/Dgps8ZEM",
+  "Twitter": "Twitter",
+  "Twitter_LINK": "https://twitter.com/fra_hero",
+  "SHOW_BACKGROUND": true
+}
